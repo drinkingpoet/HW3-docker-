@@ -17,6 +17,6 @@
 `./run.sh run_generator`
 `./run.sh run_reporter` 
 ЭТО для генерации данных и отчета
-3) для просмотра `report.html` в браузере через GitHub Codespaces используйте
+3) для просмотра `report.html` в браузере через github codespaces используйте
 `./run.sh report_server` 
 и откройте url с портом 8080 из вкладки ports, добавив `/report.html`
